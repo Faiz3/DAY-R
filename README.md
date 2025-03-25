@@ -10,8 +10,9 @@ python3 main.py
 ```
 ### Menu?
 
-1. unpack - extract the resource.car file to the resource folder
-2. decompile - decompile .lu to .lua
-3. pack - repack the extracted file, so resource.car
+
+| | |
+| --- | --- |
+| <p>1. unpack - extract the resource.car file to the resource folder</p> <p>2. decompile - decompile .lu to .lua</p><p>3. pack - repack the extracted file, so resource.car</p>| ![](https://github.com/Faiz3/DAY-R/blob/main/leather_armor.png) |
 
 ![script](https://github.com/Faiz3/DAY-R/blob/main/Screenshot%202025-03-25%20063534.png)
