@@ -18,4 +18,27 @@ python3 main.py
 luac.exe to compile .lua extension to .lu
 `
 
+### Manual?
+
+unpack:
+1. create a folder to store the files to be extracted
+2. run the following command
+```
+corona-archiver.exe -u resource.car folder_name
+```
+
+pack:
+```
+corona-archiver.exe -p folder_name
+```
+
+decompile from .lu to .lua:
+```
+java -jar file_name.lu > file_name.lua
+```
+
+compile .lua to .lu:
+```
+luac.exe -o output_name.lu file_name.lua
+```
 ![script](https://github.com/Faiz3/DAY-R/blob/main/Screenshot%202025-03-25%20063534.png)
