@@ -1,5 +1,5 @@
 # DAY-R
-```can't coding```
+```can't coding | Thank you for reading, testing, have fun and good luck```
 
 ### How?
 
