@@ -29,7 +29,7 @@ corona-archiver.exe -u resource.car folder_name
 
 pack:
 ```
-corona-archiver.exe -p folder_name
+corona-archiver.exe -p folder_name resource.car
 ```
 
 decompile from .lu to .lua:
